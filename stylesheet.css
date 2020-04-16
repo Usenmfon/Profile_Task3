@@ -1,0 +1,70 @@
+.header {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 5px;
+}
+
+h1 span {
+    color: red;
+}
+
+.header-list {
+    line-height: 30px;
+    background-color: #eeeeee;
+    height: 700px;
+    width: 105px;
+    float: left;
+    padding: 5px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+li {
+    list-style: none;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 2px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.content-image img {
+    margin-top: 20px;
+    margin-left: 100px;
+    width: 100px;
+    height: 100px;
+    align-content: center;
+}
+
+.content p {
+    padding: 10px;
+}
+
+.content table {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#UserInfo,
+#Profile {
+    color: white;
+    border: 2px solid black;
+    background-color: orangered;
+    border-radius: 20px;
+    box-sizing: border-box;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.summary p {
+    text-align: justify;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.footer h2 {
+    background-color: black;
+    color: white;
+    clear: both;
+    text-align: center;
+    padding: 5px;
+}
